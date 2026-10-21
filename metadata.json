@@ -1,0 +1,6 @@
+{
+  "name": "Jelajahin - Platform Travel & Booking Terpercaya",
+  "description": "Platform pemesanan tiket pesawat, kereta, bus, hotel, paket wisata, dan aktivitas liburan di Indonesia dengan transparansi harga dan kemudahan checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
